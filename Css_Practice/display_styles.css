@@ -1,0 +1,22 @@
+.block_example{
+    display: block;
+    background-color: lightblue;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.inline-example {
+  display: inline;
+  background: lightgreen;
+  padding: 10px;
+   width: 100px;
+  height: 150px;
+  margin-right: 5px;
+}
+.inline-block-example {
+  display: inline-block;
+  background: lightcoral;
+  width: 100px;
+  height: 50px;
+  margin-right: 5px;
+}
